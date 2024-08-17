@@ -1,0 +1,10 @@
+POST http://20.244.56.144/test/register
+Content-Type: application/json
+
+{
+  "companyName": "MRCE",
+  "ownerName": "Karthik",
+  "rollNo": "21Q91A05Q1",
+  "ownerEmail": "karthiku1904@gmail.com",
+  "accessCode": "DUKyet"
+}
